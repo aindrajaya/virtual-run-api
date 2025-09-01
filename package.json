@@ -2,7 +2,7 @@
   "name": "api-product",
   "version": "1.0.0",
   "description": "This is the API service for run Virtual run that use Strava on background",
-  "author": "",
+  "author": "aindrajaya",
   "private": true,
   "license": "MIT",
   "scripts": {
